@@ -1,0 +1,24 @@
+{
+  "name": "ShittyDescriptions",
+  "version": "0.0.1",
+  "author": "Jules Patry - julesjmpatry@gmail.com - @JavascriptJules",
+  "description": "New fun project. :D",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.0.0",
+    "ejs": "1.0.0",
+    "underscore": "1.6.0",
+    "open": "0.0.5"
+  },
+  "engines": {
+    "node": "v0.10.x"
+  }
+}
